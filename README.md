@@ -25,3 +25,6 @@ and you see SHA
 |         E.o+..o.|
 |        o o.o+o..|
 +----[SHA256]-----+
+
+check ssh key : 
+ls -al .ssh 
